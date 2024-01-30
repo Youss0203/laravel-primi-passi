@@ -7,9 +7,14 @@
         <title>Laravel</title>
     </head>
     <body>
+        <header>
+            <h1>
+            {{ $title }}
+            </h1>
+        </header>
         <div>
             <h1>
-                Hello World
+                Home
             </h1>
         </div>
     </body>
